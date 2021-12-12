@@ -1,0 +1,2 @@
+traveltimepy~=0.2
+setuptools~=57.0.0
